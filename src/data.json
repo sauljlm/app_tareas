@@ -1,0 +1,22 @@
+[
+  {
+    "task": "Practica 1",
+    "complete": "false",
+    "dueDate": "[ 2018-10-28 ]"
+  },
+  {
+    "task": "Practica 2",
+    "complete": "false",
+    "dueDate": "[ 2018-10-28 ]"
+  },
+  {
+    "task": "Estudiar expreciones regulares",
+    "complete": "false",
+    "dueDate": "[ 2018-10-28 ]"
+  },
+  {
+    "task": "Estudiar JSON",
+    "complete": "false",
+    "dueDate": "[ 2018-10-28 ]"
+  }
+]
